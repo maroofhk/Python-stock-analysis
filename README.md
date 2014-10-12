@@ -1,4 +1,4 @@
 Python-stock-analysis
 =====================
 
-Basic stock analysis using python modules
+Basic stock analysis using python modules.
